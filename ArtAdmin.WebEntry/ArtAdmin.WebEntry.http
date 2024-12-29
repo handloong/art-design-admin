@@ -1,0 +1,6 @@
+@ArtAdmin.WebEntry_HostAddress = http://localhost:5265
+
+GET {{ArtAdmin.WebEntry_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
